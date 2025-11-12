@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>포트폴리오 추가 자료</title>
+  <link rel="icon" href="favicon.ico.png" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="project-page">
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <h1 class="site-title">Project 3 : Walli</h1>
+        <p class="site-sub">카드 혜택 혼란을 줄이고 활용률을 높이는 페이 서비스</p>
+      </div>
+
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="project1.html" class="nav-link">Project 1</a>
+        <a href="project2.html" class="nav-link">Project 2</a>
+        <a href="project3.html" class="nav-link active">Project 3</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+  <section class="project-detail">
+      
+              <div class="video-wrapper ratio-1920-400"> 
+        <iframe src="https://player.vimeo.com/video/1126548024?quality=4K&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&autoplay=1&loop=1&muted=1&background=1"
+                width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+        </iframe>
+      </div>
+   </main>
+    
+  <main class="container">
+    <h2 class="site-ztitle">프로토타입 영상</h2>
+    <p class="site-zsub" style="margin-bottom: 12px;">스플래시 → 메인 홈 → 카드 소팅 변경 → 결제 → 실적 달성 안내 → 혜택 변경 안내 </p>
+
+    <section class="project-detail">
+           <div class="video-wrapper ratio-1920-1080">
+        <iframe src="https://player.vimeo.com/video/1124097825?quality=4K&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+        </iframe>
+      </div>
+
+  
+      <!-- 목록으로 돌아가기 -->
+      <a href="index.html" class="card-cta">← 홈으로</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-text">Portfolio additional - Dawon</p>
+    </div>
+  </footer>
+</body>
+</html>
